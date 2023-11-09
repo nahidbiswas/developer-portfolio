@@ -62,10 +62,16 @@ h1{
 }
 #full-web{
     border-left: 7px solid blue;
+    background-color: white;
 }
 #baby-web{
     border-left: 7px solid tomato;
 }
 footer p{
     text-align: center;
+}
+.experience-aria{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
