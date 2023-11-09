@@ -43,14 +43,7 @@ h1{
     background-image: url("image/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-}
-
-
-
-
-
-
-    .button{
+}.button{
     background-image: linear-gradient(orange, tomato);
     background-color: orange;
     padding: 10px 40px;
@@ -58,4 +51,21 @@ h1{
     color: white;
     text-decoration: none;
     font-weight: 700px;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#full-web{
+    border-left: 7px solid blue;
+}
+#baby-web{
+    border-left: 7px solid tomato;
+}
+footer p{
+    text-align: center;
 }
