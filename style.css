@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -19,4 +20,9 @@ h1{
 }
 .half-width p{
     text-align: justify;
+}
+.top-banner{
+    height: 500px;
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
 }
